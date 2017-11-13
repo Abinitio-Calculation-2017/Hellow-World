@@ -1,11 +1,3 @@
 # main
 
-##xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
-yyyyyyyyyyyyyyyyyyyyyy
-
-zzzzzzzzzzzzzzzzzzzzz
-
-uuuuuuuuuuuuuuuuuuuuuu
-
-zzzzzzzzzzzzzzzzzzzzzz
+kkkkkkkkkkkkkkkkkkkkkkkkkkkkk
